@@ -1,0 +1,13 @@
+Region,Month,Sales
+North,Jan,50000
+North,Feb,60000
+North,Mar,70000
+South,Jan,45000
+South,Feb,55000
+South,Mar,65000
+East,Jan,48000
+East,Feb,58000
+East,Mar,68000
+West,Jan,52000
+West,Feb,62000
+West,Mar,72000
